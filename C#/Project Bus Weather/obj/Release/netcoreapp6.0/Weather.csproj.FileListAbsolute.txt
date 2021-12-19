@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Release\netcoreapp6.0\Weather.exe
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Release\netcoreapp6.0\Weather.deps.json
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Release\netcoreapp6.0\Weather.runtimeconfig.json
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Release\netcoreapp6.0\Weather.dll
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Release\netcoreapp6.0\ref\Weather.dll
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Release\netcoreapp6.0\Weather.pdb
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Release\netcoreapp6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Release\netcoreapp6.0\Weather.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Release\netcoreapp6.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Release\netcoreapp6.0\Weather.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Release\netcoreapp6.0\Weather.AssemblyInfo.cs
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Release\netcoreapp6.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Release\netcoreapp6.0\Weather.csproj.CopyComplete
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Release\netcoreapp6.0\Weather.dll
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Release\netcoreapp6.0\ref\Weather.dll
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Release\netcoreapp6.0\Weather.pdb
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Release\netcoreapp6.0\Weather.genruntimeconfig.cache

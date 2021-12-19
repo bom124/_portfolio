@@ -1,0 +1,327 @@
+﻿
+
+namespace ConsoleApp8
+{
+  class Base
+  {
+    public static int NumberMonth(string month)
+    {
+      month = month.ToLower();
+      switch (month)
+      {
+        case "январь":
+          return 01;
+        case "февраль":
+          return 02;
+        case "март":
+          return 03;
+        case "апрель":
+          return 04;
+        case "май":
+          return 05;
+        case "июнь":
+          return 02;
+        case "июль":
+          return 07;
+        case "август":
+          return 08;
+        case "сентябрь":
+          return 09;
+        case "октябрь":
+          return 10;
+        case "ноябрь":
+          return 11;
+        case "декабрь":
+          return 12;
+        default:
+          return 0;
+      }
+    }
+    public static int CityId(string city)
+    {
+      city = city.ToLower();
+      switch(city)
+      {
+        case "калининград":
+          return 22;
+        case "мурманск":
+          return 23;
+        case "петрозаводск":
+          return 18;
+        case "санкт-петербург":
+          return 2;
+        case "псков":
+          return 25;
+        case "великие луки":
+          return 10928;
+        case "великий новгород":
+          return 24;
+        case "тверь":
+          return 14;
+        case "смоленск":
+          return 12;
+        case "брянск":
+          return 191;
+        case "калуга":
+          return 6;
+        case "обнинск":
+          return 967;
+        case "курск":
+          return 8;
+        case "орёл":
+          return 10;
+        case "тула":
+          return 15;
+        case "москва":
+          return 213;
+        case "долгопрудный":
+          return 214;
+        case "дубна":
+          return 215;
+        case "зеленоград":
+          return 215;
+        case "пущино":
+          return 217;
+        case "белгород":
+          return 4;
+        case "липецк":
+          return 9;
+        case "ярославль":
+          return 16;
+        case "владимир":
+          return 192;
+        case "александров":
+          return 10656;
+        case "гусь-хрустальный":
+          return 10661;
+        case "муром":
+          return 10668;
+        case "иваново":
+          return 5;
+        case "рязань":
+          return 11;
+        case "тамбов":
+          return 13;
+        case "воронеж ":
+          return 193;
+        case "ростов-на-дону":
+          return 39;
+        case "шахты":
+          return 11053;
+        case "таганрог":
+          return 971;
+        case "новочеркасск":
+          return 238;
+        case "волгодонск":
+          return 11036;
+        case "краснодар":
+          return 35;
+        case "анапа":
+          return 1107;
+        case "новороссийск":
+          return 970;
+        case "сочи":
+          return 239;
+        case "туапсе":
+          return 1058;
+        case "геленджик":
+          return 10990;
+        case "армавир":
+          return 10987;
+        case "Ейск":
+          return 10993;
+        case "майкоп":
+          return 1093;
+        case "черкесск":
+          return 1104;
+        case "нальчик":
+          return 30;
+        case "владикавказ":
+          return 33;
+        case "грозный":
+          return 1106;
+        case "махачкала":
+          return 28;
+        case "ставрополь":
+          return 36;
+        case "каменск-шахтинский":
+          return 11043;
+        case "пятигорск":
+          return 11067;
+        case "минеральные воды":
+          return 11063;
+        case "Ессентуки":
+          return 11057;
+        case "кисловодск":
+          return 11062;
+        case "элиста":
+          return 1094;
+        case "астрахань":
+          return 37;
+        case "волгоград":
+          return 38;
+        case "саратов":
+          return 194;
+        case "жигулевск":
+          return 11132;
+        case "балаково":
+          return 11143;
+        case "пенза":
+          return 49;
+        case "саранск":
+          return 42;
+        case "ульяновск":
+          return 195;
+        case "самара":
+          return 51;
+        case "тольятти":
+          return 240;
+        case "сызрань":
+          return 11139;
+        case "чебоксары":
+          return 45;
+        case "йошкар-ола":
+          return 41;
+        case "нижний новгород":
+          return 47;
+        case "саров":
+          return 11083;
+        case "киров":
+          return 46;
+        case "кострома":
+          return 7;
+        case "вологда":
+          return 21;
+        case "архангельск":
+          return 20;
+        case "северодвинск":
+          return 10849;
+        case "сыктывкар":
+          return 19;
+        case "ижевск":
+          return 44;
+        case "казань":
+          return 43;
+        case "набережные челны":
+          return 236;
+        case "нижнекамск":
+          return 11127;
+        case "пермь":
+          return 50;
+        case "уфа":
+          return 172;
+        case "нефтекамск":
+          return 11114;
+        case "салават":
+          return 11115;
+        case "стерлитамак":
+          return 11116;
+        case "оренбург":
+          return 48;
+        case "дзержинск":
+          return 972;
+        case "челябинск":
+          return 56;
+        case "магнитогорск":
+          return 235;
+        case "снежинск":
+          return 11218;
+        case "курган":
+          return 53;
+        case "Екатеринбург":
+          return 54;
+        case "каменск-уральский":
+          return 11164;
+        case "нижний тагил":
+          return 11168;
+        case "новоуральск ":
+          return 11170;
+        case "первоуральск":
+          return 11171;
+        case "тюмень":
+          return 55;
+        case "тобольск":
+          return 11175;
+        case "ханты-мансийск":
+          return 57;
+        case "омск":
+          return 66;
+        case "новосибирск":
+          return 65;
+        case "бердск":
+          return 11314;
+        case "томск":
+          return 67;
+        case "салехард":
+          return 58;
+        case "барнаул":
+          return 197;
+        case "бийск":
+          return 975;
+        case "рубцовск":
+          return 11251;
+        case "горно-алтайск":
+          return 11319;
+        case "кемерово":
+          return 64;
+        case "междуреченск":
+          return 11287;
+        case "новокузнецк":
+          return 237;
+        case "прокопьевск":
+          return 11291;
+        case "абакан":
+          return 1095;
+        case "кызыл":
+          return 11333;
+        case "красноярск":
+          return 62;
+        case "ачинск":
+          return 11302;
+        case "норильск":
+          return 11311;
+        case "железногорск":
+          return 20086;
+        case "иркутск":
+          return 63;
+        case "братск":
+          return 976;
+        case "улан-удэ":
+          return 198;
+        case "чита":
+          return 68;
+        case "якутск":
+          return 74;
+        case "благовещенск":
+          return 77;
+        case "биробиджан":
+          return 11393;
+        case "владивосток":
+          return 75;
+        case "находка":
+          return 974;
+        case "уссурийск":
+          return 11426;
+        case "анадырь":
+          return 11458;
+        case "петропавловск-камчатский":
+          return 78;
+        case "магадан":
+          return 79;
+        case "южно-сахалинск":
+          return 80;
+        case "хабаровск":
+          return 76;
+        case "комсомольск-на-амуре":
+          return 11453;
+        case "луховицы":
+          return 10737;
+        case "коломна":
+          return 10734;
+        default:
+          return 0;
+      }
+   
+    }
+  }
+}

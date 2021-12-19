@@ -1,0 +1,15 @@
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.exe
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.deps.json
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.json
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.dev.json
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.dll
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.pdb
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfo.cs
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.dll
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.pdb
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.genruntimeconfig.cache
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\Админ-ноут\source\repos\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csproj.CopyComplete

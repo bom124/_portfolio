@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\Weather.exe
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\Weather.deps.json
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\Weather.runtimeconfig.json
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\Weather.runtimeconfig.dev.json
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\Weather.dll
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\Weather.pdb
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\Weather.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\Weather.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\Weather.AssemblyInfo.cs
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\Weather.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\Weather.csproj.CopyComplete
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\Weather.dll
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\Weather.pdb
+C:\Users\User\Desktop\ConsoleApp1\ConsoleApp8\obj\Debug\netcoreapp3.1\Weather.genruntimeconfig.cache
