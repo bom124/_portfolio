@@ -1,0 +1,53 @@
+*{box-sizing: border-box;  webkit-tap-highlight-color: rgba(0, 0, 0, 0); -webkit-tap-highlight-color: transparent;}
+
+ul, ul li{list-style-type: none; padding: 0; margin: 0;}
+img{max-width: 100%;}
+
+.container{max-width: 1340px; padding: 0 30px; margin: 0 auto;}
+.flex{display: flex; display: -webkit-flex;}
+
+::selection{color: #fff; background: #333333;}
+::-moz-selection{color: #fff; background: #333333;}
+::-webkit-selection{color: #fff; background: #333333;}
+
+:root {
+  --text-color: #393939;
+  --title-color: #333333;
+  --hover-color: #ed1c24;
+  --button-background-color: #c81f40;
+  --default-h1-size: 24px;
+  --default-h2-size: 21px;
+  --default-font-size: 16px;
+}
+.header{padding: 30px 0; background-color: #ffd7bafe; flex: 0 0 auto;}
+.mobile-icons{display: none;}
+
+
+
+
+
+/* Phone */
+.header .phone{margin-left: 120px; flex-grow: 1;}
+.header .phone .number{font: 22px 'Lato'; font-weight: 700; color: #990202fe; line-height: 26px; display: inline-block;}
+.header .phone .opening-hours{font-size: 14px; font-weight: 400; color: #828282; line-height: 16px;}
+
+
+.slick-track{display: flex;}
+
+.bnr{margin: 10px 0 -30px 0;}
+.bnr img{border-radius: 20px; display: block;}
+.main-cats{padding-top: 80px; flex-wrap: wrap; justify-content: space-between;}
+.main-cats a{color: #fff; text-decoration: none; padding: 20px 0 0 30px; height: 120px; margin-bottom: 2.8%; background-position: center; background-repeat: no-repeat; border-radius: 20px; flex-basis: 31.25%; transition: opacity .2s ease; align-items: flex-start;}
+.main-cats a:hover{opacity: 0.8;}
+
+.main-cats a span{font-size: 16px; font-weight: 700; line-height: 15px; text-transform: uppercase; text-align: center; padding: 17px 21px; background-color: #333; border-radius: 30px;}
+
+.main-cats a.sets{background-image: url('../img/cats/sets.jpg');}
+.main-cats a.rolls{background-image: url('../img/cats/rolls.jpg');}
+.main-cats a.baked-rolls{background-image: url('../img/cats/baked_rolls.jpg');}
+.main-cats a.sushi{background-image: url('../img/cats/sushi.jpg');}
+.main-cats a.drinks{background-image: url('../img/cats/drinks.jpg');}
+.main-cats a.desserts{background-image: url('../img/cats/desserts.jpg');}
+
+.main-content{font-size: var(--default-font-size); color: var(--text-color); padding-top: 30px; justify-content: space-between;}
+.main-content h1{margin: 0 0 20px 0;}
