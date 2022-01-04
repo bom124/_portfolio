@@ -1,0 +1,54 @@
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\AjaxChat.dll.config
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\AjaxChat.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\AjaxChat.pdb
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\Antlr3.Runtime.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\Newtonsoft.Json.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.Helpers.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.Mvc.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.Optimization.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.Razor.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.WebPages.Deployment.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.WebPages.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.WebPages.Razor.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\WebGrease.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.Helpers.xml
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.Mvc.xml
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.Optimization.xml
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.Razor.xml
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.WebPages.xml
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.WebPages.Deployment.xml
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\System.Web.WebPages.Razor.xml
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\Newtonsoft.Json.xml
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\bin\Antlr3.Runtime.pdb
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\obj\Debug\AjaxChat.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\obj\Debug\AjaxChat.dll
+c:\users\hp\documents\visual studio 2013\Projects\MVC\AjaxChat\obj\Debug\AjaxChat.pdb
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\AjaxChat.dll.config
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\AjaxChat.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\AjaxChat.pdb
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\WebGrease.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Новая папка\AjaxChat\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Новая папка\AjaxChat\obj\Debug\AjaxChat.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\AjaxChat\obj\Debug\AjaxChat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\AjaxChat\obj\Debug\AjaxChat.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка\AjaxChat\obj\Debug\AjaxChat.dll
+C:\Users\User\Desktop\Новая папка\AjaxChat\obj\Debug\AjaxChat.pdb
